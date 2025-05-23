@@ -34,7 +34,7 @@ Bangladesh currently uses three main laws to deal with cyber issues:
 - Allows police to arrest or search without a warrant based on suspicion.
 - Criticized for being too broad and harsh, affecting freedom of speech and journalism.
 
-#### 2.3 Cyber Security Ordinance 2025 (Draft)
+#### 2.3 Cyber Security Ordinance 2025 
 - Recognizes access to the internet as a basic right.
 - Aims to cover modern crimes like misuse of Artificial Intelligence, online gambling, and more.
 - Still in draft stage and not fully implemented or enforced yet.
